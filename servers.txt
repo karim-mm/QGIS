@@ -1,0 +1,107 @@
+
+https://landsat.arcgis.com/arcgis/rest/services/Landsat/PS/ImageServer?f=jsapi
+https://landsat2.arcgis.com/arcgis/rest/services/Landsat8_Views/ImageServer/
+https://services.arcgis.com/Y1QbvI6f2VTukBpR/arcgis/rest/services/
+
+https://www.arcgis.com/sharing/rest/community/users/wiracoccha?f=json
+https://www.arcgis.com/sharing/rest/community/groups/a74dff13f1be4b2ba7264c3315c57077?f=json
+
+------------------
+https://services.arcgis.com/2Pv4ow3pE6NFC9SW/arcgis/rest/services/
+https://services2.arcgis.com/3dDB2Kk6kuA2gIGw/arcgis/rest/services/
+https://services1.arcgis.com/4OouWsRyOft5wqPC/arcgis/rest/services/
+https://services.arcgis.com/8ELTeGNIxTmyFVaa/arcgis/rest/services/
+https://services.arcgis.com/azYCYQPfHWnM02Go/arcgis/rest/services/
+https://services.arcgis.com/b6zSqPB0TQc3mBgU/arcgis/rest/services/ IS
+https://services.arcgis.com/BLHClr0XLs9EAETm/ArcGIS/rest/services/
+https://services.arcgis.com/f2L9BNb7FaGJkvSP/ArcGIS/rest/services/
+https://services.arcgis.com/fkdd2rBaLheyJhlu/ArcGIS/rest/services/ MANHATAN
+https://services.arcgis.com/FQD0rKU8X5sAQfh8/ArcGIS/rest/services/
+https://services.arcgis.com/hRUr1F8lE8Jq2uJo/ArcGIS/rest/services/
+https://services1.arcgis.com/MPSkeshhtFz9vjCL/ArcGIS/rest/services/ MADRID
+https://services.arcgis.com/OLiydejKCZTGhvWg/ArcGIS/rest/services/ NETHERLAND
+https://services.arcgis.com/uEH09Hfm70zI2ZxR/arcgis/rest/services/
+------------------
+https://services5.arcgis.com/FDIcdEEqy1cBDX8N/ArcGIS/rest/services
+https://services.arcgis.com/4OV0eRKiLAYkbH2J/arcgis/rest/services/
+https://services.arcgis.com/Hp6G80Pky0om7QvQ/arcgis/rest/services/
+https://services7.arcgis.com/n1YM8pTrFmm7L4hs/ArcGIS/rest/services
+https://services7.arcgis.com/CPLm4MuWYjfnA2R9/arcgis/rest/services/
+------------------
+inurl::6443 arcgis
+https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/ AIR CONTROL USA
+https://geodata.epa.gov/arcgis/rest/services/ epa.gov air quality control
+https://services.arcgis.com/TWfU0bgvgUkCgHLa/arcgis/rest/services/ BOSTON
+https://services2.arcgis.com/ZQgQTuoyBrtmoGdP/arcgis/rest/services/
+https://services6.arcgis.com/T8YQJgvRBuOztSrZ/arcgis/rest/services/
+https://services8.arcgis.com/sl3l8R4p2dfHyK8o/ArcGIS/rest/services BEIRUT EXP SMALL DB
+https://services1.arcgis.com/4yjifSiIG17X0gW4/arcgis/rest/services/ LINKED TO AUB Qmo
+https://services1.arcgis.com/CD5mKowwN6nIaqd8/arcgis/rest/services/
+https://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/ WITH BEIRUT EXPLOSION
+https://experience.arcgis.com/experience/28466a6d361545358ec64fa3e932ee86/page/3D-Scene/?dlg=Disclaimer-Mobile
+https://enterprise.spatialstudieslab.org/server/rest/services/Hosted?f=pjson
+https://enterprise.spatialstudieslab.org/server/rest/services?f=pjson
+https://services1.arcgis.com/aT1T0pU1ZdpuDk1t/arcgis/rest/services/ "id": "32c11d50290e4c62b25ec27cb3cecabf",
+  "owner": "lebanesestudies",
+  "orgId": "aT1T0pU1ZdpuDk1t",
+  "created": 1626183825000,
+  "modified": 1628008424000,
+  "guid": null,
+  "name": null,
+  "title": "Lebanese American Public Opinion  2021",
+https://services7.arcgis.com/WOCTeelWa8YfhXRF/arcgis/rest/services/ AS IF REDCROSS
+https://services8.arcgis.com/4sXEsxQJTWBlSKA1/arcgis/rest/services/ TO CHECK
+https://services3.arcgis.com/tuNLpt6Wfhd22qmO/arcgis/rest/services/ LEBANON NGO SOMETHING
+https://cbdgmapa.pgi.gov.pl/arcgis/rest/services?f=pjson
+https://services.arcgis.com/ak2bo87wLfUpMrt1/arcgis/rest/services/
+ https://services.arcgis.com/HRPe58bUyBqyyiCt/ArcGIS/rest/services GeoDS Lab @ UW-Madison 
+https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/
+https://ec2-3-32-74-50.us-gov-west-1.compute.amazonaws.com:6443/arcgis/rest/services/IBM/Land_Units/MapServer
+https://portal.esrikr.com:6443/arcgis/rest/services/Hosted
+https://services.arcgis.com/nzS0F0zdNLvs7nc8/arcgis/rest/services/
+https://www.arcgis.com/home/webmap/viewer.html?url=https://services.arcgis.com/nzS0F0zdNLvs7nc8/ArcGIS/rest/services/Mars_Geology_feature_layer/FeatureServer&source=sd GEOLOGY MARS
+https://services.arcgis.com/nzS0F0zdNLvs7nc8/arcgis/rest/services/ WHITE HOUSE POSS
+https://services.arcgis.com/hRUr1F8lE8Jq2uJo/arcgis/rest/services/ atf.gov
+https://geoservicios.upra.gov.co/arcgis/rest/services COLOMBIA
+https://dpti.geohub.sa.gov.au/server/rest/services/ AUSTRALIA
+https://services.arcgis.com/VgnIzOwU2FBU6E7K/ArcGIS/rest/services/ NATO
+https://pro-ags2.dfs.un.org/arcgis/rest/services?f=pjson UN
+inurl:dtic.mil/sti/pdfs
+https://services6.arcgis.com/hxAwRYAu9QHliJ8T/ArcGIS/rest/services COLOMBIA
+https://gociteweb.longueuil.quebec/arcgis/rest/services/image/Orthophoto2019mercator/MapServer?f=jsapi
+https://meteo-dv.ru/arcgis/rest/services/rasters METEO RUS
+https://services1.arcgis.com/d0ZCwU7eGKVeNiEE/ArcGIS/rest/services
+https://services1.arcgis.com/IAQQkLXctKHrf8Av/arcgis/rest/services/ DOD FACILITIES
+https://qgis.org/en/site/forusers/alldownloads.html
+https://coast.noaa.gov/arcgis/rest/services/Imagery/ NOAAA
+https://satellitemaps.nesdis.noaa.gov/arcgis/rest/services/ NOAAA
+makepasswd -count 10 -maxchars 16 -minchars 16 > 16pass.txt
+https://maps2.dcgis.dc.gov/dcgis/rest/services/ Washington DC
+http://aa.usno.navy.mil/imagery/earth/map?year=2022&month=1&day=6&hour=19&minute=16
+https://services.arcgis.com/As5CFN3ThbQpy8Ph/arcgis/rest/services/ CANADA
+https://services.arcgis.com/VgnIzOwU2FBU6E7K/ArcGIS/rest/services
+https://services2.arcgis.com/6abozLJF4LTuHUD6/arcgis/rest/services/ Airport
+https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/ US DB
+https://services7.arcgis.com/wyuyPOB30xiLUr72/arcgis/rest/services/ UFO REPORTS2
+https://geo.dot.gov/server/rest/services/ TRANSPORTATION GOV USA
+https://www.arcgis.com/apps/webappviewer/index.html?id=b7553a8a24414efa8b79f9670edd3f91 USA NOAA LIVE
+https://services.arcgis.com/e8gGAYmR5kxEFApE/arcgis/rest/services/
+https://services1.arcgis.com/fBc8EJBxQRMcHlei/arcgis/rest/services/
+https://tiles.arcgis.com/tiles/DO4gTjwJVIJ7O9Ca/arcgis/rest/services CHECFK IMAGERY
+https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services To WOrk
+https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services to work
+https://www.arcgis.com/sharing/rest/portals/KbxwQRRfWyEYLgp4?f=json
+https://services.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/
+https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services  U.S. Environmental Protection Agency 
+https://services1.arcgis.com/KbxwQRRfWyEYLgp4/arcgis/rest/services/ WORKING
+https://gis.transportation.wv.gov/ftp/
+https://services.arcgis.com/cJ9YHowT8TU7DUyn/ArcGIS/rest/services TO WORK
+https://view.eumetsat.int/geoserver/ows?SERVICE=WMS&REQUEST=GetCapabilities
+https://sig01.pertanian.go.id/arcgis/rest/services TO WORK IMAGERY
+https://tiles.arcgis.com/tiles/hGdibHYSPO59RG1h/arcgis/rest/services/ mass.gov
+https://tiles.arcgis.com/tiles/sjP4Ugu5s0dZWLjd/arcgis/rest/services/ AFGHANISTAN
+https://gis.ogero.gov.lb/arcgis/rest/services/Demand_Survey/MapServer OGERO LEBANON
+https://services1.arcgis.com/qN3V93cYGMKQCOxL/arcgis/rest/services TO CHECK BIG
+https://services2.arcgis.com/j80Jz20at6Bi0thr/arcgis/rest/services/
+https://apps.fs.usda.gov/fsgisx02/rest/services
+https://services.arcgis.com/World_Imagery_8673/ArcGIS/rest/services

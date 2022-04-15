@@ -1,0 +1,19 @@
+https://sentinel.imagery1.arcgis.com/arcgis/rest/services/Sentinel2L2A/ImageServer/wms?
+https://www.joesandbox.com/analysis/205095/0/pdf
+https://services2.arcgis.com/Gqyymy5JISeLzyNM/arcgis/rest/services/
+https://services9.arcgis.com/q5uyFfTZo3LFL04P/arcgis/rest/services/ CONGRESS
+https://services1.arcgis.com/VAI453sU9tG9rSmh/arcgis/rest/services/
+https://services7.arcgis.com/4J4bpMusJpjcWWJ4/arcgis/rest/services/ SENATE
+https://gocerebrum.com/server/rest/services/Hosted/
+https://services9.arcgis.com/N9p5hsImWXAccRNI/arcgis/rest/services
+https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/ af.mil
+https://bcgishub.broward.org/image/rest/services/Imagery to check imagery
+https://services6.arcgis.com/FStub7HlCSCdqoXK/ArcGIS/rest/services
+https://services2.arcgis.com/FiaPA4ga0iQKduv3/arcgis/rest/services/ United_States_Army_Corp_of_Engineers
+https://services1.arcgis.com/WGzzp37bqYMLyzDR/arcgis/rest/services/
+https://services1.arcgis.com/GE4Idg9FL97XBa3P/arcgis/rest/services
+https://gisservices.oakgov.com/arcgis/rest/services/
+https://services2.arcgis.com/C8EMgrsFcRFL6LrL/ArcGIS/rest/services
+https://services6.arcgis.com/C0HVLQJI37vYnazu/arcgis/rest/services/ UN
+https://services.arcgis.com/RuMxwoJBLS7erjQj/arcgis/rest/services/
+https://utility.arcgis.com/usrsvcs/servers/d70ebb358d28463a99e574d56265dd95/rest/services/Sentinel2/ImageServer/wmts?service=wmts&request=getcapabilities

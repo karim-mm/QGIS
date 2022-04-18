@@ -1,0 +1,48 @@
+https://services.arcgis.com/ySviQvEr4wv1b4QW/arcgis/rest/services/
+https://services3.arcgis.com/uknczv4rpevve42E/arcgis/rest/services/
+https://services.arcgis.com/kIR4HURNA77omgt2/arcgis/rest/services/
+https://192.96.159.151:6443/arcgis/rest/services/NWS_FIM
+https://services3.arcgis.com/OacnGgMRYcQYInTv/arcgis/rest/services/
+https://tigerweb.geo.census.gov/arcgis/rest/services/
+https://services6.arcgis.com/clPWQMwZfdWn4MQZ/arcgis/rest/services/ ARIZONA AIR
+https://www.ocean-ops.org/arcgis/rest/services
+https://services6.arcgis.com/cWzdqIyxbijuhPLw/arcgis/rest/services/
+https://tiles.arcgis.com/tiles/cWzdqIyxbijuhPLw/arcgis/rest/services/
+http://212.232.25.232/satellites?
+http://businessserver27032015.internet4you.at:8008/satellites?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetLegendGraphic&LAYER=MSG IR09e&STYLE=&FORMAT=image/png
+http://eumetrain.org/ePort_MapViewer/
+http://businessserver27032015.internet4you.at:8008/observations
+https://maps6.arcgisonline.com/arcgis/rest/services/A-16
+https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/
+https://services.arcgis.com/WLhB60Nqwp4NnHz3/arcgis/rest/services/
+https://tiles.arcgis.com/tiles/nzS0F0zdNLvs7nc8/arcgis/rest/services/
+https://services.arcgis.com/EEOLw7FvbUFCdg7T/arcgis/rest/services/
+https://tiles.arcgis.com/tiles/Mj0hjvkNtV7NRhA7/arcgis/rest/services/
+https://tiles.arcgis.com/tiles/iKsbAcqgVYmhKSqt/arcgis/rest/services
+https://services1.arcgis.com/iKsbAcqgVYmhKSqt/arcgis/rest/services/  ------
+https://services.arcgis.com/qHLhLQrcvEnxjtPr/arcgis/rest/services   
+https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services
+https://services3.arcgis.com/7bJVHfju2RXdGZa4/arcgis/rest/services/
+https://ons-inspire.esriuk.com/arcgis/rest/services
+https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services
+https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/ UK
+https://tiles.arcgis.com/tiles/JJzESW51TqeY9uat/arcgis/rest/services?f=html&cacheKey=9a69f824d7c71f51
+https://services3.arcgis.com/3wBYLDMc7IlzsBlJ/arcgis/rest/services/
+https://services1.arcgis.com/GKHFS1tjFvm1DyXI/arcgis/rest/services/
+https://services3.arcgis.com/Bb8lfThdhugyc4G3/arcgis/rest/services
+https://services3.arcgis.com/ivmBBrHfQfDnDf8Q/arcgis/rest/services/
+https://services1.arcgis.com/h1C9f6qsGKmqXsVs/arcgis/rest/services
+https://services1.arcgis.com/byI4kn9uGfeTFbS1/arcgis/rest/services/
+https://services2.arcgis.com/PZklK9Q45mfMFuZs/arcgis/rest/services
+https://services9.arcgis.com/3DS2hBWXSllJ5p3H/arcgis/rest/services/ MARINE+
+https://services2.arcgis.com/Dn40vzt2R38VJsSS/arcgis/rest/services/
+https://services.arcgis.com/DknzyjEEie5tEW0u/arcgis/rest/services/
+https://cagmap.snh.gov.uk/arcgis/rest/services/
+https://environment.data.gov.uk/arcgis/rest/services
+https://services8.arcgis.com/WjAwg84s4EayFLBd/arcgis/rest/services/
+https://services-eu1.arcgis.com/NPIbx47lsIiu2pqz/arcgis/rest/services/
+https://services1.arcgis.com/oRInaDWtddHQHoBG/arcgis/rest/services/
+https://services5.arcgis.com/piNGxor37zqmvRAm/arcgis/rest/services/
+https://services1.arcgis.com/evM5NkxAYjTi6XPw/arcgis/rest/services/
+https://services.arcgis.com/XSeYKQzfXnEgju9o/arcgis/rest/services/
+https://services8.arcgis.com/3ArZhpXFARDixnL2/arcgis/rest/services/

@@ -1,0 +1,33 @@
+SERVERS4
+https://services7.arcgis.com/Sn2rF1ebQhL7rHbG/arcgis/rest/services/
+https://tiles.arcgis.com/tiles/Sn2rF1ebQhL7rHbG/arcgis/rest/services/
+https://services.ga.gov.au/site_1/rest/services/
+https://services.ga.gov.au/site_3/rest/services/
+https://services.ga.gov.au/site_7/rest/services/
+https://services.ga.gov.au/site_9/rest/services/
+https://services3.arcgis.com/QCH1Le0vwRIyplqB/arcgis/rest/services/
+https://services3.arcgis.com/Oy2JTCD10wkoelxS/arcgis/rest/services/
+https://tiles.arcgis.com/tiles/MiOPFI8GsXBo3NOc/arcgis/rest/services/
+https://services6.arcgis.com/MiOPFI8GsXBo3NOc/arcgis/rest/services/
+https://services8.arcgis.com/gtmasQsdfwbDAQSQ/arcgis/rest/services/
+https://services.arcgis.com/neT9SoYxizqTHZPH/arcgis/rest/services/
+https://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/
+https://services9.arcgis.com/RHVPKKiFTONKtxq3/arcgis/rest/services/
+https://mapportal.dewa.gov.ae/ags/rest/services/
+https://www.sec.gov/Archives/edgar/data/1160308/
+https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/
+https://services1.arcgis.com/sQOueNHZBxRJjRN3/arcgis/rest/services/
+https://services8.arcgis.com/s3xegrS2bQ4HS3tU/arcgis/rest/services/
+https://services5.arcgis.com/n4qyP7iVOnJlCVth/arcgis/rest/services/
+https://maps.bristol.gov.uk/arcgis/rest/services/ext
+https://services9.arcgis.com/VlgZFV2305KcAkKn/arcgis/rest/services/
+https://services8.arcgis.com/TrLhDuWxkcSkFAjt/arcgis/rest/services/
+https://services9.arcgis.com/QP9rWOQr7HMr3J8o/arcgis/rest/services/ COCOM
+https://services.arcgis.com/WQ9KVmV6xGGMnCiQ/arcgis/rest/services/
+https://services1.arcgis.com/jOy9iZUXBy03ojXb/arcgis/rest/services/
+https://services8.arcgis.com/pGqt0QVmjXHzpjJL/arcgis/rest/services/ EGYPT
+https://services5.arcgis.com/sjP4Ugu5s0dZWLjd/arcgis/rest/services/
+https://tiles.arcgis.com/tiles/sjP4Ugu5s0dZWLjd/arcgis/rest/services/
+https://services1.arcgis.com/jOy9iZUXBy03ojXb/arcgis/rest/services/
+https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/
+https://services1.arcgis.com/vdNDkVykv9vEWFX4/arcgis/rest/services/

@@ -1,0 +1,20 @@
+SERVER6
+https://services8.arcgis.com/8YKI2UE5De11iill/arcgis/rest/services/ UK GENOM
+https://services.arcgis.com/PpEMp4p6SBYbe0zW/arcgis/rest/services DRUG DEPAR
+https://services3.arcgis.com/4LOAHoFXfea6Y3Et/arcgis/rest/services DRUG DEPAR
+https://services8.arcgis.com/oTalEaSXAuyNT7xf/arcgis/rest/services/
+https://services1.arcgis.com/CgOSc11uky3egK6O/arcgis/rest/services/
+https://services2.arcgis.com/wx8u046p68e0iGuj/arcgis/rest/services/
+https://services.wvgis.wvu.edu/arcgis/rest/services/
+https://services1.arcgis.com/4TXrdeWh0RyCqPgB/arcgis/rest/services/
+https://services1.arcgis.com/5Gtv38l8677OspKm/arcgis/rest/services/
+https://services7.arcgis.com/neoO20BFeNfAOvHM/arcgis/rest/services/
+https://geographyplanning.buffalostate.edu/arcgis/rest/services
+https://gis3.uspatial.umn.edu/arcgis/rest/services/
+https://gis4.uspatial.umn.edu/arcgis/rest/services/mgs?f=json
+https://gis4.uspatial.umn.edu/arcgis/services/mgs/mnbdrkmosaic_10_4/mapserver/WMSServer?request=GetCapabilities&service=WMS
+https://services7.arcgis.com/wCvLzGFkz06gCfBg/arcgis/rest/services/
+https://geo.green.gohunt.com/arcgis/rest/services/Hosted
+https://tiles.arcgis.com/tiles/RbMX0mRVOFNTdLzd/arcgis/rest/services/
+https://services5.arcgis.com/jVfdTU2nDZP5Q8Pw/arcgis/rest/services/
+https://services4.arcgis.com/NBOuPWHiVIstE33a/arcgis/rest/services/
